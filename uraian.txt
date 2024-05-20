@@ -1,0 +1,8 @@
+1. LCD bekerja dengan cara menerima inputan dari kodingan sesuai dengan baris dan kolom yang diminta sehingga dapat menampilkan tulisan yang diinginkan pada layar LCD tentunya setelah LCD disambungkan ke NodeMCU yang digunakan untuk menerima arus listrik dan perintah yang disampaikan.
+2. LED bekerja dengan cara menerima arus listrik pada kaki yang panjang dan menghubungkan kaki yang pendek ke Ground sebagai kutub minus, setelah dikoding maka lampu LED akan menyala sesuai dengan titik digital yang diingkan.
+3.  1) Sliding door otomatis
+    2) Lampu taman otomatis
+    3) Smartphone
+    4) Smart Home
+    5) Vacuum Cleaner otomatis
+4. Kami akan membuat pengunci pintu otomatis berbasis IoT yang bisa dikontrol dari jarak jauh (Remote) melalui jaringan internet, yang pertama buatlah rancangan dari sistem tersebut menggunakan mikrokontroller dan solenoid lock door untuk mengunci pintunya, kemudian ada sensor pintu untuk memastikan apakah pintu terbuka atau tertutup, power supply sebagai sumber listrik dan aplikasi mobile atau web digunakan sebagai pengontrol serta BLYNK sebagai database orang melewati pintu tersebut, buat kodingan di VS Code untuk menjalankan fungsi serta lakukan uji coba dan pengimplementasian.
